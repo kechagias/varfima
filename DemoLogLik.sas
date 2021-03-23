@@ -1,13 +1,25 @@
 /*=======================================================================
 PURPOSE:    Demo to evaluate bivariate VARFIMA log likelihoods.
 
+Notes:      The following code compiles the VARFIMA functions and computes 
+			likelihoods of four varfima models for a bivariate Gaussian
+			white noise series.
+
 Author:     Stefanos Kechagias
 Date:       August 2020 
 ========================================================================*/
-proc iml;
 
-/*local directory*/
-libname VARFIMA 'C:\Users\statha\Desktop\VARFIMA';
+/*local directory where you saved the git repo*/
+%let localDirectory = C:/Users/statha/Desktop/varfima;
+
+/*create a SAS library in the specified local directory*/
+libname VARFIMA %tslit(&localDirectory);
+
+/*compile the VARFIMA functions*/
+%include %tslit(&localDirectory/VARFIMAModules.sas);
+
+
+proc iml;
 
 /*catalog where the modules are located*/
 reset storage = VARFIMA.VARFIMAModules;  

@@ -1,10 +1,10 @@
 /*========================================================================================================
 Purpose:      Define all the functions for the VARFIMA package.
 
-Notes:        1. From a high level all the functions here serve one of two purposes. The first is to 
-			     generate data with a given covariance structure, and the second is to compute a
-			     Gaussian likelihood. The end of the file has a categorization of all defined 
-                 functions.
+Notes:        1. At a high level the functions defined in this file serve one of two purposes. 
+				 The first is to generate data with a given covariance structure, and the second is 
+				 to compute a Gaussian likelihood. At the end of the file you can find a categorization 
+				 of all defined functions (modules).
               2. The methodology to synthesize the data is taken from Reference 1, and the methodo-
                  logy to compute the likelihood is taken from Reference 2.
 			  3. The functions for synthesis are translated from the matlab package hermir (see 
@@ -15,12 +15,9 @@ Reference:    1. Data Synthesis: https://www.sciencedirect.com/science/article/a
 			  2. VARFIMA model:  https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504
 
 Author:       Stefanos Kechagias
-Contributors  Vladas Pipiras, Rick Wicklin, Xilong Chen
+Contributors: Vladas Pipiras, Rick Wicklin, Xilong Chen
 Date:         August 2020 (development started in 2015)
 ========================================================================================================*/
-
-/*local directory*/
-libname VARFIMA 'C:\Users\statha\Desktop\VARFIMA';
 
 
 proc iml;
@@ -511,7 +508,7 @@ INPUT
 	M 			 sample size
 	q			 MA order
 	d  			 2-dimensional parameter
-   j,k	         indices of d
+
 OUTPUT
 	GMinus   	 gamma(k-d) when k-d<0
 	GPlus    	 gamma(k+d) when k-d<0
@@ -1368,7 +1365,7 @@ finish;
 /* save the modules to a SAS catalog */
 reset storage = VARFIMA.VARFIMAModules;  
 
-/*load modules that synthesize data from a given covariance structure*/
+/*store modules that synthesize data from a given covariance structure*/
 store module = embedAutoCov;
 store module = embedCrossCov;
 store module = circembed;
@@ -1377,7 +1374,7 @@ store module = SynthStepMultivarGauss;
 store module = CovarVARFIMA0Dq;
 
 
-/*load modules necessary for applying an inverse bivariate AR filter*/
+/*store modules necessary for applying an inverse bivariate AR filter*/
 store module = PowerOfComplex;
 store module = cplxMult;
 store module = ComplexInv;
@@ -1385,7 +1382,7 @@ store module = ApplyInvArConv;
 store module = conv;
 
 
-/*load modules related to likeliuhood computation*/
+/*store modules related to likelihood computation*/
 store module = ComputeGammas;
 store module = LargeCovar0DqVec;
 store module = MyToeplitz;
