@@ -13,7 +13,7 @@
 **Usage**: <br>
 &nbsp;  1. Pull the repository to your local directory.  <br>
 &nbsp;  2. Open the DemoLogLik.sas and DemoFitLogLik1D0.sas files.  <br>
-&nbsp;  3. Change the path of the localDirectory macro variable in the beginning of these files to your local directory.  <br>
+&nbsp;  3. Change the path of the <i>localDirectory</i> macro variable in the beginning of these files to your local directory.  <br>
 &nbsp;  4. Run the demo files.
 
 **Disclaimer**: <br>
