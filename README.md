@@ -25,5 +25,5 @@
 &nbsp;  All functions were developed under SAS 9.4.
 
 **Contact**: <br>
-Please feel free to reach out to me at stefanoskeh@gmail.com with any questions or suggestions.
+&nbsp;  Please feel free to reach out to me at stefanoskeh@gmail.com with any questions or suggestions.
 
