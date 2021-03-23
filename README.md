@@ -4,9 +4,9 @@
 
 **Contents**:<br>
 &nbsp;   The repository contains three files: <br>
-&nbsp; &nbsp; &nbsp;    1. <i>VARFIMAModules.sas</i>  &nbsp; &nbsp; &nbsp;   Definitions of necessary functions <br>
-&nbsp; &nbsp; &nbsp;    2. <i>DemoLogLik.sas</i>      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Demo on how to compute a bivariate VARFIMA(p,D,q) likelihood with p,q<2. <br>
-&nbsp; &nbsp; &nbsp;    3. <i>DemoFitLogLik1D0.sas</i> &nbsp; &nbsp;  Demo on how to fit a bivariate VARFIMA(1,D,0) likelihood.
+&nbsp; &nbsp; &nbsp;    1. <i>VARFIMAModules.sas</i>  &nbsp; &nbsp; &nbsp; Definitions of necessary functions <br>
+&nbsp; &nbsp; &nbsp;    2. <i>DemoLogLik.sas</i>      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Demo on how to compute a bivariate VARFIMA(p,D,q) likelihood with p,q<2. <br>
+&nbsp; &nbsp; &nbsp;    3. <i>DemoFitLogLik1D0.sas</i> &nbsp; &nbsp; Demo on how to fit a bivariate VARFIMA(1,D,0) likelihood.
   
 **Usage**: <br>
 &nbsp;  Pull the repository to your local directory and take the following steps:
