@@ -1,5 +1,5 @@
 **Purpose**:
-  To fit bivariate vector autoregressive fractionally integrated time series with general phase. The functions of this repo
+  To fit bivariate vector autoregressive fractionally integrated time series with general phase. The functions of this repo <br>
   can be used to replicate the results of https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504
 
 **Contents**:
