@@ -1,3 +1,5 @@
+**Version 1.0** <br>
+
 **Purpose**:<br>
 &nbsp; Fit bivariate vector autoregressive fractionally integrated time series with general phase. The functions of this repo  <br>
 &nbsp; can be used to replicate the results of https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504
@@ -15,7 +17,13 @@
 &nbsp;  4. Run the demo files.
 
 **Disclaimer**: <br>
-&nbsp;  This repo is creeated only for demonstration purposes and to allow researchers to replicate the results of the <br>
-&nbsp;  paper https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504. As such the macros and programs contained in the repo <br>
-&nbsp;  are not fully tested. Please feel free to reach out to me at stefanoskeh@gmail.com with any questions or suggestions.
+&nbsp;  This repo is created only for demonstration purposes. Practitioners and researchers may use it to replicate the results of the <br>
+&nbsp;  paper https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504. As a result the macros and programs contained in the repo <br>
+&nbsp;  are not fully tested and may contain bugs or other issues. If you use the code please cite the above mentioned paper as necessary.
+
+**SAS Version**: <br>
+&nbsp;  All functions were developed under SAS 9.4.
+
+**Contact**: <br>
+Please feel free to reach out to me at stefanoskeh@gmail.com with any questions or suggestions.
 
