@@ -1,11 +1,11 @@
 **Purpose**:
-  To fit bivariate vector autoregressive fractionally integrated time series with general phase. The functions of this repo <br>
+  To fit bivariate vector autoregressive fractionally integrated time series with general phase. The functions of this repo 
   can be used to replicate the results of https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504
 
 **Contents**:
-  The repository contains three files:
-    VARFIMAModules.sas:    Definitions of necessary functions
-    DemoLogLik.sas         Demo on how to compute a bivariate VARFIMA(p,D,q) likelihood with p,q<2
+  The repository contains three files: <br>
+    VARFIMAModules.sas:    Definitions of necessary functions <br>
+    DemoLogLik.sas         Demo on how to compute a bivariate VARFIMA(p,D,q) likelihood with p,q<2. <br>
     DemoFitLogLik1D0.sas   Demo on how to fit a bivariate VARFIMA(1,D,0) likelihood.
   
 **Usage**: 
