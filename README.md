@@ -9,9 +9,10 @@
 &nbsp; &nbsp; &nbsp;    3. <i>DemoFitLogLik1D0.sas</i> &nbsp; &nbsp; Demo on how to fit a bivariate VARFIMA(1,D,0) likelihood.
   
 **Usage**: <br>
-&nbsp;  Pull the repository to your local directory and take the following steps:
-&nbsp;  Change the path of the localDirectory macro variable in the beginning of the DemoLogLik.sas and DemoFitLogLik1D0.sas 
-&nbsp;  files to the path you used to save the pulled repo. Then simply run the demo programs.
+&nbsp;  1. Pull the repository to your local directory.  <br>
+&nbsp;  2. Open the DemoLogLik.sas and DemoFitLogLik1D0.sas files.  <br>
+&nbsp;  3. Change the prespecified path of the localDirectory macro variable in the beginning of these files to your local directory.  <br>
+&nbsp;  4. Run the demo files.
 
 **Disclaimer**: <br>
 &nbsp;  This repo is creeated only for demonstration purposes and to allow researchers to replicate the results of the 
