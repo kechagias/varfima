@@ -15,7 +15,7 @@
 &nbsp;  4. Run the demo files.
 
 **Disclaimer**: <br>
-&nbsp;  This repo is creeated only for demonstration purposes and to allow researchers to replicate the results of the 
-&nbsp;  paper https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504. As such the macros and programs contained in the repo
+&nbsp;  This repo is creeated only for demonstration purposes and to allow researchers to replicate the results of the <br>
+&nbsp;  paper https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504. As such the macros and programs contained in the repo <br>
 &nbsp;  are not fully tested. Please feel free to reach out to me at stefanoskeh@gmail.com with any questions or suggestions.
 
