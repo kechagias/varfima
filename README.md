@@ -2,8 +2,7 @@
 
 **Purpose**:<br>
 &nbsp; Provide SAS code to fit bivariate vector autoregressive fractionally integrated time series with general phase.  <br>
-&nbsp; The SAS functions in the VARFIMAModules.sas file implement the methods of <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504">Kechagias and Pipiras (2019)</a> and of 
-&nbsp; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168410004019">Helgason etal (2011)</a>.
+&nbsp; The SAS functions in the VARFIMAModules.sas file implement the methods of <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504">Kechagias and Pipiras (2019)</a> and of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168410004019">Helgason etal (2011)</a>.
 
 
 
@@ -23,15 +22,13 @@
 &nbsp;  4. Run the demo files.
 
 **Disclaimer**: <br>
-&nbsp;  This repo is created only for demonstration purposes. Practitioners and researchers may use it to replicate the results of the <br>
-&nbsp;  paper https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504. As a result the macros and programs contained in the repo <br>
-&nbsp;  are not fully tested and may contain bugs or other issues. If you use the code please cite the above mentioned paper as necessary.
+&nbsp;  This repo is created only for demonstration purposes. As a result the macros and programs contained in the repo <br>
+&nbsp;  are not fully tested and may contain bugs or defects. If you ecnounter any problems or if you have any questions nor comments please do not hesitate
+&nbsp;  to reach out to me at stefanoskeh@gmail.com
 
 **SAS Version**: <br>
 &nbsp;  All functions were developed under SAS 9.4.
 
-**Contact**: <br>
-&nbsp;  Please feel free to reach out to me at stefanoskeh@gmail.com with any questions or suggestions.
 
 **References**: <br>
 &nbsp;  Kechagias S. and Pipiras V. (2020), Modeling bivariate long‐range dependence with general phase. <i>Journal of Time Series Analysis</i> 41: 268-292.
