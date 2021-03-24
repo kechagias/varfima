@@ -32,3 +32,7 @@ and of <a href="https://www.sciencedirect.com/science/article/abs/pii/S016516841
 
 **Contact**: <br>
 &nbsp;  Please feel free to reach out to me at stefanoskeh@gmail.com with any questions or suggestions.
+
+**References**: <br>
+&nbsp;  Helgason H, Pipiras V, Abry P. 2011. Fast and exact synthesis of stationary multivariate Gaussian time series using circulant <br>
+&nbsp;  embedding. Signal Processing 91(5): 1123–1133.
