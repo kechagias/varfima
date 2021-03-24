@@ -34,5 +34,6 @@ and of <a href="https://www.sciencedirect.com/science/article/abs/pii/S016516841
 &nbsp;  Please feel free to reach out to me at stefanoskeh@gmail.com with any questions or suggestions.
 
 **References**: <br>
-&nbsp;  Helgason H, Pipiras V, Abry P. 2011. Fast and exact synthesis of stationary multivariate Gaussian time series using circulant <br>
-&nbsp;  embedding. Signal Processing 91(5): 1123–1133.
+&nbsp;  Kechagias S and Pipiras V. (2020), Modeling bivariate long‐range dependence with general phase. <i>Journal of Time Series Analysis</i> 41: 268-292.
+&nbsp;  Helgason H, Pipiras V and Abry P. (2011), Fast and exact synthesis of stationary multivariate Gaussian time series using circulant <br>
+&nbsp;  embedding. <i>Signal Processing</i> 91(5): 1123–1133.
