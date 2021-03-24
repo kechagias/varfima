@@ -2,7 +2,8 @@
 
 **Purpose**:<br>
 &nbsp; Provide SAS code to fit bivariate vector autoregressive fractionally integrated time series with general phase.  <br>
-&nbsp; The functions of this repo can be used to replicate the results of https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504
+&nbsp; The functions of this repo can be used to replicate the results of https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504 <br>
+&nbsp; and of https://www.sciencedirect.com/science/article/abs/pii/S0165168410004019
 
 **Contents**:<br>
 &nbsp;   The repository contains three files: <br>
