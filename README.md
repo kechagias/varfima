@@ -16,9 +16,10 @@
 &nbsp;  1. Pull the repository to your local directory. If you are working with SAS On Demand for Academics you will need to <br>
 &nbsp;  &nbsp; &nbsp;  upload the files to the SAS server via SAS Studio. Check out this helpful <a href="https://support.sas.com/ondemand/manuals/UploadingDataUsers.pdf">guide</a> for more details. <br>
 &nbsp;  2. Open the DemoLogLik.sas and DemoFitLogLik1D0.sas files.  <br>
-&nbsp;  3. Change the path of the <i>localDirectory</i> macro variable in the beginning of these files to your local directory <br>
+&nbsp;  3. Change the path of the macro variable <h1 style="background-color:DodgerBlue;">  <i>localDirectory</i>  </h1> in the beginning of these files to your local directory <br>
 &nbsp;  &nbsp; &nbsp;  (or to the SAS Server directory if you are using SAS On Demand for Academics).  <br>
 &nbsp;  4. Run the demo files.
+
 
 **Disclaimer**: <br>
 &nbsp;  This repo is created only for demonstration purposes. As a result the macros and programs contained in the repo <br>
