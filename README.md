@@ -5,11 +5,6 @@
 &nbsp; The SAS functions in the VARFIMAModules.sas file implement the methods of <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504">Kechagias and Pipiras (2019)</a> <br> 
 &nbsp; and of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168410004019">Helgason etal (2011)</a>.
 
-
-
-
-
-
 **Contents**:<br>
 &nbsp;   The repository contains three files: <br>
 &nbsp; &nbsp; &nbsp;    1. <i>VARFIMAModules.sas</i>  &nbsp; &nbsp; &nbsp; Definitions of necessary functions <br>
@@ -30,7 +25,7 @@
 **SAS Version**: <br>
 &nbsp;  All functions were developed under SAS 9.4.
 
-
+<br>
 **References**: <br>
 &nbsp;  Kechagias S. and Pipiras V. (2020), Modeling bivariate long‐range dependence with general phase. <i>Journal of Time <br> 
 &nbsp;  Series Analysis</i> 41: 268-292. <br>
