@@ -1,4 +1,4 @@
-**Version 1.0** <br>
+**Repository Version 1.0** <br>
 
 **Purpose**:<br>
 &nbsp; Provide SAS code to fit bivariate vector autoregressive fractionally integrated time series with general phase.  <br>
