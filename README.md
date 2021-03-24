@@ -33,6 +33,6 @@
 
 **References**: <br>
 &nbsp;  Kechagias S. and Pipiras V. (2020), Modeling bivariate long‐range dependence with general phase. <i>Journal of Time <br> 
-&nbsp;  Series Analysis</i> 41: 268-292.
+&nbsp;  Series Analysis</i> 41: 268-292. <br>
 &nbsp;  Helgason H., Pipiras V. and Abry P. (2011), Fast and exact synthesis of stationary multivariate Gaussian time series <br>  
 &nbsp;  using circulant embedding. <i>Signal Processing</i> 91(5): 1123–1133.
