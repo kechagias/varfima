@@ -16,6 +16,9 @@ Date     August 2020
 /*create a SAS library in the specified local directory*/
 libname VARFIMA %tslit(&localDirectory);
 
+/*compile the VARFIMA functions*/
+%include %tslit(&localDirectory/VARFIMAModules.sas);
+
 
 proc iml;
 
