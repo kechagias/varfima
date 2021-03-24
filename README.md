@@ -22,7 +22,7 @@
 
 
 **Disclaimer**: <br>
-&nbsp;  This repo is created only for demonstration purposes. As a result the functions and programs contained in the repo <br>
+&nbsp;  This repo is created for demonstration purposes. As a result the functions and programs contained in the repo <br>
 &nbsp;  are not fully tested and may contain bugs or defects. If you ecnounter any problems or if you have any questions <br> 
 &nbsp;  or comments please do not hesitate to reach out to me at stefanoskeh@gmail.com.
 
