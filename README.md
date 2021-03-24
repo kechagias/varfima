@@ -2,7 +2,10 @@
 
 **Purpose**:<br>
 &nbsp; Provide SAS code to fit bivariate vector autoregressive fractionally integrated time series with general phase.  <br>
-&nbsp; The functions of this repo can be used to replicate the results of Kechagias and Pipiras (2020) and of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168410004019">Helgason etal (2011).</a>
+&nbsp; The functions of this repo implement the methods of <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsa.12504">Kechagias and Pipiras (2019)</a>
+and of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168410004019">Helgason etal (2011)</a>.
+
+
 
 
 
