@@ -23,8 +23,8 @@
 
 **Disclaimer**: <br>
 &nbsp;  This repo is created only for demonstration purposes. As a result the macros and programs contained in the repo <br>
-&nbsp;  are not fully tested and may contain bugs or defects. If you ecnounter any problems or if you have any questions nor comments please do not hesitate
-&nbsp;  to reach out to me at stefanoskeh@gmail.com
+&nbsp;  are not fully tested and may contain bugs or defects. If you ecnounter any problems or if you have any questions or comments <br> 
+&nbsp;  please do not hesitate to reach out to me at stefanoskeh@gmail.com.
 
 **SAS Version**: <br>
 &nbsp;  All functions were developed under SAS 9.4.
