@@ -6,8 +6,6 @@
 &nbsp; and of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168410004019">Helgason etal (2011)</a>.
 
 
-
-
 **Contents**:<br>
 &nbsp;   The repository contains three files: <br>
 &nbsp; &nbsp; &nbsp;    1. <i>VARFIMAModules.sas</i>  &nbsp; &nbsp; &nbsp; Definitions of necessary functions <br>
@@ -26,7 +24,7 @@
 &nbsp;  or comments please do not hesitate to reach out to me at stefanoskeh@gmail.com.
 
 **SAS Version**: <br>
-&nbsp;  All functions were developed under SAS 9.4.<br>
+&nbsp;  All functions were developed under SAS 9.4.
 
 **References**: <br>
 &nbsp;  Kechagias S. and Pipiras V. (2020), Modeling bivariate long‐range dependence with general phase. <i>Journal of Time <br> 
