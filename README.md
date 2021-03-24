@@ -27,7 +27,7 @@
 &nbsp;  or comments please do not hesitate to reach out to me at stefanoskeh@gmail.com.
 
 **SAS Version**: <br>
-&nbsp;  All functions were developed under SAS 9.4 using proc iml (a SAS procedure that allows matrix programming similar to Matlab and R). 
+&nbsp;  All functions were developed under SAS 9.4 using proc iml (a SAS procedure that allows matrix programming). 
 
 **References**: <br>
 &nbsp;  Kechagias S. and Pipiras V. (2020), Modeling bivariate long‐range dependence with general phase. <i>Journal of Time <br> 
