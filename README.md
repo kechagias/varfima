@@ -20,7 +20,6 @@
 &nbsp; &nbsp; &nbsp; local directory (or to the path of the SAS Server directory if you are using SAS On Demand for Academics). <br>
 &nbsp;  4. Run the demo files.
 
-
 **Disclaimer**: <br>
 &nbsp;  This repo is created for demonstration purposes. As a result the functions and programs contained in the repo <br>
 &nbsp;  are not fully tested and may contain bugs or defects. If you ecnounter any problems or if you have any questions <br> 
