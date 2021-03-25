@@ -28,7 +28,7 @@
 &nbsp;  or comments please do not hesitate to reach out to me at stefanoskeh@gmail.com.
 
 **SAS Version and Browser**: <br>
-&nbsp;  All functions were developed under SAS 9.4 using proc iml (a SAS procedure that allows matrix programming). We used 
+&nbsp;  All functions were developed under SAS 9.4 using proc iml (a SAS procedure that allows matrix programming). We used <br> 
 &nbsp;  Google Chrome to verify that the Demo files run clean.
 
 **References**: <br>
