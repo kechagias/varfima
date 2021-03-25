@@ -17,7 +17,9 @@
 &nbsp;  &nbsp; &nbsp;  upload the files to the SAS server via SAS Studio. Check out this helpful <a href="https://support.sas.com/ondemand/manuals/UploadingDataUsers.pdf">guide</a> for more details. <br>
 &nbsp;  2. Open the DemoLogLik.sas and DemoFitLogLik1D0.sas files.  <br>
 &nbsp;  3. Change the path of the macro variable <i>localDirectory</i> located in the beginning of these files to the path of your <br> 
-&nbsp; &nbsp; &nbsp; local directory (or to the path of the SAS Server directory if you are using SAS On Demand for Academics). <br>
+&nbsp; &nbsp; &nbsp; local directory (where you saved the repo after you downloaded it) or to the path of the SAS Server directory 
+&nbsp; &nbsp; &nbsp;  (the SAS Studio folder that you uploaded your files into). To find the directory of the SAS Studio folder, 
+&nbsp; &nbsp; &nbsp;  right click on it and press properties. <br>
 &nbsp;  4. Run the demo files.
 
 **Disclaimer**: <br>
