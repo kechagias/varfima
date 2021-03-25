@@ -1,5 +1,3 @@
-**Repository Version 1.0** <br>
-
 **Purpose**:<br>
 &nbsp; Provide SAS code for synthesizing stationary multivariate time series from a given covariance structure and for fitting  <br>
 &nbsp; bivariate vector autoregressive fractionally integrated time series with general phase. The SAS functions in the  <br> 
